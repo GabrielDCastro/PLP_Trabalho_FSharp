@@ -1,4 +1,4 @@
-package Polimorfismo;
+package teste;
 public class ComputadorFactory {
 
     public static Computador getComputador(String type, String ram, String hdd, String cpu) {
